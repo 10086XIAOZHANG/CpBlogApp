@@ -1,8 +1,8 @@
 ## 部分效果图展示
 
-image
+![image](https://files.cnblogs.com/files/fuGuy/app-%E4%B8%8B%E8%BD%BD%E9%A1%B5.gif)
 
-image
+![image](https://files.cnblogs.com/files/fuGuy/app%E5%8D%9A%E5%AE%A21.gif)
 
 ## 运行方法（Android）
 
