@@ -1,6 +1,6 @@
 ## 部分效果图展示
 
-![image](https://files.cnblogs.com/files/fuGuy/app-%E4%B8%8B%E8%BD%BD%E9%A1%B5.gif)
+![image](https://github.com/10086XIAOZHANG/blogImgAttr/blob/master/app%E5%8D%9A%E5%AE%A21.gif)
 
 ![image](https://files.cnblogs.com/files/fuGuy/app%E5%8D%9A%E5%AE%A21.gif)
 
