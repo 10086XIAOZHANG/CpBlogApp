@@ -23,3 +23,6 @@
 有两种方法可以启动模拟器运行：
 1. 在根目录下执行下面的命令:``react-native run-ios``，随后就可以自动启动本地服务，打开iOS模拟器运行项目。
 2. 找到iOS项目文件夹，用Xcode打开项目，点击运行按钮运行（也可以连接iPhone运行）。
+
+### CP聚合博客Web端-基于react+dva2+andsign+react-router4.0框架——https://github.com/10086XIAOZHANG/CP-WEB-SOURCE-PlATFORM
+### CP聚合博客后端——基于python drf框架以及xadmin 管理后台+Sentry 日记监控系统: https://github.com/10086XIAOZHANG/CpWebSourcePlatform
