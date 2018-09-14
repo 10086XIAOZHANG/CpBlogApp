@@ -2,7 +2,7 @@
 
 ![image](https://github.com/10086XIAOZHANG/blogImgAttr/blob/master/app%E5%8D%9A%E5%AE%A21.gif)
 
-![image](https://files.cnblogs.com/files/fuGuy/app%E5%8D%9A%E5%AE%A21.gif)
+![image](https://github.com/10086XIAOZHANG/blogImgAttr/blob/master/app2.gif)
 
 ## 运行方法（Android）
 
